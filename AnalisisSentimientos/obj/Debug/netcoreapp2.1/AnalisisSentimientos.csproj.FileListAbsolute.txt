@@ -1,0 +1,8 @@
+/Users/rodrigoluque/Projects/AnalisisSentimientos/AnalisisSentimientos/obj/Debug/netcoreapp2.1/AnalisisSentimientos.csprojAssemblyReference.cache
+/Users/rodrigoluque/Projects/AnalisisSentimientos/AnalisisSentimientos/obj/Debug/netcoreapp2.1/AnalisisSentimientos.csproj.CoreCompileInputs.cache
+/Users/rodrigoluque/Projects/AnalisisSentimientos/AnalisisSentimientos/obj/Debug/netcoreapp2.1/AnalisisSentimientos.AssemblyInfoInputs.cache
+/Users/rodrigoluque/Projects/AnalisisSentimientos/AnalisisSentimientos/obj/Debug/netcoreapp2.1/AnalisisSentimientos.AssemblyInfo.cs
+/Users/rodrigoluque/Desktop/MachineLearning/AnalisisSentimientos/AnalisisSentimientos/obj/Debug/netcoreapp2.1/AnalisisSentimientos.csprojAssemblyReference.cache
+/Users/rodrigoluque/Desktop/MachineLearning/AnalisisSentimientos/AnalisisSentimientos/obj/Debug/netcoreapp2.1/AnalisisSentimientos.csproj.CoreCompileInputs.cache
+/Users/rodrigoluque/Desktop/MachineLearning/AnalisisSentimientos/AnalisisSentimientos/obj/Debug/netcoreapp2.1/AnalisisSentimientos.AssemblyInfoInputs.cache
+/Users/rodrigoluque/Desktop/MachineLearning/AnalisisSentimientos/AnalisisSentimientos/obj/Debug/netcoreapp2.1/AnalisisSentimientos.AssemblyInfo.cs

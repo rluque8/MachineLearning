@@ -1,0 +1,3 @@
+/Users/rodrigoluque/Projects/AnalisisSentimientos/AnalisisSentimientos/obj/Release/netcoreapp2.1/AnalisisSentimientos.csproj.CoreCompileInputs.cache
+/Users/rodrigoluque/Projects/AnalisisSentimientos/AnalisisSentimientos/obj/Release/netcoreapp2.1/AnalisisSentimientos.AssemblyInfoInputs.cache
+/Users/rodrigoluque/Projects/AnalisisSentimientos/AnalisisSentimientos/obj/Release/netcoreapp2.1/AnalisisSentimientos.AssemblyInfo.cs

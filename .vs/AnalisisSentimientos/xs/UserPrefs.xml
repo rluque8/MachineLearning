@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9BE4A87B-6E2B-4AB2-BC96-684662C0CF71}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnalisisSentimientos/Program.cs">
+    <Files>
+      <File FileName="AnalisisSentimientos/Program.cs" Line="33" Column="10" />
+      <File FileName="AnalisisSentimientos/Sentimiento.cs" Line="28" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AnalisisSentimientos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
